@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08076e5a-202e-4597-912b-9216cc437555" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Driving/AI/AIRayShoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.3/Runtime/Interaction/XRInteractionManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.2/InputSystem/Utilities/DelegateHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Driving/AI/SelfDriving.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Driving/HitDetector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Driving/SteeringWheel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.3/Runtime/Interaction/Interactables/XRBaseInteractable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Driving/Hint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.3/Runtime/Interaction/Controllers/ActionBasedController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Driving/AI/SelfDrivingManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Driving/WheelFront.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.3/Runtime/UI/XRUIInputModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Driving/XRManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.3/Runtime/Interaction/Interactables/XRGrabInteractable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RayShooting/RayShooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.management@4.0.1/Editor/Metadata/XRPackageMetadata.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.3/Runtime/Interaction/Interactors/XRRayInteractor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.3/Runtime/XR/XRRig.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Driving/DataSave.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Driving/AI/RoadTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.3/Runtime/Interaction/Interactors/XRDirectInteractor.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/SteeringWheel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/CubeMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/WheelFront.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/vehicle/engineAudio.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/vehicle/cameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/vehicle/inputManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RollGame/Player_Roll.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/vehicle/wheelsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Roll/PlayerControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/XRManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/MaskShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/MirrorScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RayShooting/Rayshooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RayShooting/RayShootingManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RayShooting/RayShooter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/AI/RoadTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/AI/AIRayShoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/vehicle/controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/WheelFollowHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/AI/SelfDrivingManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/FollowPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/Hint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/GoalManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/GoalUnit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/SimulationManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/HitDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/DataSave.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Driving/AI/SelfDriving.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sYLWoNk2yT0KRkNlW4t52tT6JS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08076e5a-202e-4597-912b-9216cc437555" name="Default Changelist" comment="" />
+      <created>1621044614522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621044614522</updated>
+      <workItem from="1621044638953" duration="19992000" />
+      <workItem from="1621252887440" duration="9764000" />
+      <workItem from="1621348974498" duration="3717000" />
+      <workItem from="1621737850948" duration="22979000" />
+      <workItem from="1621863059279" duration="5496000" />
+      <workItem from="1621952812890" duration="3866000" />
+      <workItem from="1623068946043" duration="3882000" />
+      <workItem from="1623156841021" duration="1516000" />
+      <workItem from="1623245872720" duration="2762000" />
+      <workItem from="1623326430204" duration="7941000" />
+      <workItem from="1623553339456" duration="10118000" />
+      <workItem from="1623661869751" duration="181000" />
+      <workItem from="1623662398082" duration="3355000" />
+      <workItem from="1624753105764" duration="1720000" />
+      <workItem from="1624779686984" duration="1476000" />
+      <workItem from="1624883479582" duration="3028000" />
+      <workItem from="1625065871972" duration="3069000" />
+      <workItem from="1625488892149" duration="8843000" />
+      <workItem from="1625577389107" duration="3050000" />
+      <workItem from="1625661512679" duration="5796000" />
+      <workItem from="1625746828372" duration="7557000" />
+      <workItem from="1626871915534" duration="1102000" />
+      <workItem from="1626884128043" duration="1628000" />
+      <workItem from="1627002987317" duration="903000" />
+      <workItem from="1627016679967" duration="2014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1621956226559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1621956226559" />
+  </component>
+</project>

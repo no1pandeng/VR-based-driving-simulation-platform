@@ -1,0 +1,1 @@
+{"TimeStart":"2021/7/23 13:30:49","Difficulty":"Easy","Weather":"Rainy","timeSpent":"10 min","hitTimes":59}

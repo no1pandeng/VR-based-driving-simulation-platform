@@ -1,0 +1,117 @@
+{
+    "name": "PlayerAction",
+    "maps": [
+        {
+            "name": "Driving",
+            "id": "e1c38dfc-3429-47f2-a562-22b20c1bde76",
+            "actions": [
+                {
+                    "name": "Horizontal",
+                    "type": "Button",
+                    "id": "57ab921f-c254-4a3d-a924-a0c8805a0992",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Break",
+                    "type": "Button",
+                    "id": "9bc6fd79-748b-4eb3-a466-56b5b5204955",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Turn_Left",
+                    "type": "Button",
+                    "id": "35a29417-20a3-4025-894a-d0c49d210432",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Turn_Right",
+                    "type": "Button",
+                    "id": "412407e1-cadb-4e13-ac51-faed90e1d1f4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c35230ed-656d-46e9-adda-e7d62647216e",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Horizontal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3f6f2aa3-ef7b-4c8f-b0dc-be5f7b436790",
+                    "path": "<Gamepad>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Break",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6153be8a-e002-4cbe-98f0-14831f8d3664",
+                    "path": "<Gamepad>/leftStick/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Turn_Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4810208c-e169-4157-9546-6e0dea110378",
+                    "path": "<Gamepad>/leftStick/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Turn_Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Manager",
+            "id": "ddf928a6-d547-44d1-9087-409026596a0e",
+            "actions": [
+                {
+                    "name": "GuideAgent",
+                    "type": "Button",
+                    "id": "b974513e-c632-4cda-a474-6a9093f6bef7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "70d7622e-c13d-457b-bbe9-1bd7ebd256a4",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GuideAgent",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

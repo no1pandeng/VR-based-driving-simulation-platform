@@ -1,0 +1,1 @@
+{"TimeStart":"2021/7/8 23:08:20","Difficulty":"Unknown difficulty","Weather":"UnKnown Weather","timeSpent":6.127359867095947,"hitTimes":0}
